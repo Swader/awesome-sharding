@@ -25,4 +25,4 @@ These resources are specific to Ethereum.
 
 - [Sharding via libp2p documentation/research](https://github.com/ethresearch/sharding-p2p-poc) 
 - [Offchain collation headers proposal](https://ethresear.ch/t/offchain-collation-headers/1679/6)
-- [Oblique Hashes explanation]
+- [Oblique Hashes explanation](https://docs.google.com/presentation/d/1aqU1gK8B_sozm6orNVqqyvBTC2u2_13Re0Fi99rFhjg/edit#slide=id.g413fdd60fc_1_233)
