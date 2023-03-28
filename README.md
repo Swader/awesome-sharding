@@ -20,6 +20,7 @@ These resources are specific to Ethereum.
 - [Official FAQs](https://github.com/ethereum/wiki/wiki/Sharding-FAQs)
 - [July 1st Berlin sharding meeting notes](https://notes.ethereum.org/s/B1-7aivmX) + [videos](https://www.youtube.com/playlist?list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ)
 - [Casper + Sharding spec discussion](https://ethresear.ch/t/convenience-link-to-full-casper-chain-v2-spec/2332/12) + [actual WIP spec](https://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ)
+- [Sharding in Polybase](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf)
 
 ### Tech
 
